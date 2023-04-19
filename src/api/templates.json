@@ -1,0 +1,268 @@
+[
+    {
+      "key":"001",
+      "category":"Portfolios",
+      "cards":[
+        {
+         "detail":"A website for gallery view",
+          "title":"Gallery Website Template",
+          "img":"https://images01.nicepagecdn.com/page/23/79/website-template-preview-237926.webp",
+          "link":"https://nicepage.com/st/237926/new-gallery-website-template"
+       
+        },
+        {
+         "detail":"a adeveloper's job profile",
+          "title":"Web Developer Job Profile",
+          "img":"https://images01.nicepagecdn.com/page/34/34/website-template-preview-343452.webp",
+          "link":"https://nicepage.com/st/343452/web-developer-job-profile-website-template"
+       
+        },
+        {
+         "detail":"a mobile app dev's portfolio",
+          "title":"Mobile App Development Portfolio",
+          "img":"https://images01.nicepagecdn.com/page/34/65/website-template-preview-346594.webp",
+          "link":"https://nicepage.com/st/346594/mobile-app-development-portfolio-website-template"
+        }
+      ]
+   
+    },
+  {
+    "key":"002",
+      "category":"Art & Design",
+      "cards":[
+        {
+         "detail":"a freelance designer's site",
+          "title":"Freelance Designer Website",
+          "img":"https://images01.nicepagecdn.com/page/14/50/website-template-preview-145024.webp",
+          "link":"https://nicepage.com/st/145024/freelance-designer-website-template"
+       
+        },
+        {
+         "detail":"creative services",
+          "title":"Offering Creative Services Website Template",
+          "img":"https://images01.nicepagecdn.com/page/38/78/website-template-preview-38787.webp",
+          "link":"https://nicepage.com/st/38787/offering-creative-services-website-template"
+       
+        },
+        {
+         "detail":"Graphic And Web Design Website Template",
+          "title":"Graphic And Web Design Website Template",
+          "img":"https://images01.nicepagecdn.com/page/31/19/website-template-preview-3119222.webp",
+          "link":"https://nicepage.com/st/3119222/graphic-and-web-design-website-template"
+        }
+      ]
+   
+  },
+{
+  "key":"003",
+  "category":"Food & Restaurants",
+  "cards":[
+    {
+     "detail":"Restaurant Website Template",
+      "title":"Restaurant Website Template",
+      "img":"https://images01.nicepagecdn.com/page/31/19/website-template-preview-3119222.webp",
+      "link":"https://nicepage.com/st/54765/andy-chief-restaurant-website-template"
+    },
+    {
+     "detail":"Farm Website Template",
+      "title":"Farm Website Template",
+      "img":"https://images01.nicepagecdn.com/page/57/04/website-template-preview-57048.webp",
+      "link":"https://nicepage.com/st/57048/the-olive-farm-website-template"
+    },
+    {
+     "detail":"Recipes Website Template",
+      "title":"Recipes Website Template",
+      "img":"https://images01.nicepagecdn.com/page/23/68/website-template-preview-236868.webp",
+      "link":"https://nicepage.com/st/236868/easy-chocolate-cake-recipes-website-template"
+    }
+  ]
+}
+,
+  {
+    "key":"004",
+      "category":"Education",
+      "cards":[
+        {
+         "detail":"College Faculties",
+          "title":"Faculties In College Website Template",
+          "img":"https://images01.nicepagecdn.com/page/69/32/website-template-preview-69325.webp",
+          "link":"https://nicepage.com/st/69325/interactive-learning-website-template"
+       
+        },
+        {
+         "detail":"Learning website",
+          "title":"Interactive Learning Website Template",
+          "img":"https://images01.nicepagecdn.com/page/11/02/website-template-preview-110229.webp",
+          "link":"https://nicepage.com/st/110229/time-management-cources-website-template"
+       
+        },
+        {
+         "detail":"Online courses",
+          "title":"Courses And Programmes Website Template",
+          "img":"https://images01.nicepagecdn.com/page/67/53/website-template-preview-67534.webp",
+          "link":"https://nicepage.com/st/67534/educational-courses-and-programmes-website-template"
+        }
+      ]
+   
+  },
+  {
+    "key":"005",
+      "category":"Travles & Hotels",
+      "cards":[
+        {
+         "detail":"Travel",
+          "title":"Travel Website Template",
+          "img":"https://images01.nicepagecdn.com/page/41/09/website-template-preview-41093.webp",
+          "link":"https://nicepage.com/st/41093/youre-travel-website-template"
+       
+        },
+        {
+         "detail":"Travel Agency ",
+          "title":"Travel Agency Services Website Template",
+          "img":"https://images01.nicepagecdn.com/page/24/86/website-template-preview-2486160.webp",
+          "link":"https://nicepage.com/st/2486160/full-service-travel-agency-services-website-template"
+       
+        },
+        {
+         "detail":"Travel Agency Subscribe Website Template",
+          "title":"Travel Agency Subscribe Website Template",
+          "img":"https://images01.nicepagecdn.com/page/12/65/website-template-preview-126552.webp",
+          "link":"https://nicepage.com/st/126552/travel-agency-subscribe-website-template"
+        }
+      ]
+   
+  },
+  {"key":"006",
+      "category":"Music",
+      "cards":[
+        {
+         "detail":"Muse Cover Website Template",
+          "title":"Muse Cover Website Template",
+          "img":"https://images01.nicepagecdn.com/page/48/62/website-template-preview-48620.webp",
+          "link":"https://nicepage.com/st/48620/muse-cover-party-website-template"
+       
+        },
+        {
+         "detail":"Music Brand Story Website Template",
+          "title":"Music Brand Story Website Template",
+          "img":"https://images01.nicepagecdn.com/page/11/24/website-template-preview-112435.webp",
+          "link":"https://nicepage.com/st/112435/music-brand-story-website-template"
+       
+        },
+        {
+         "detail":"Music Online Website Template",
+          "title":"Music Online Website Template",
+          "img":"https://images01.nicepagecdn.com/page/22/91/website-template-preview-229160.webp",
+          "link":"https://nicepage.com/st/229160/music-online-website-template"
+        }
+      ]
+   
+  },
+  {
+    "key":"007",
+      "category":"Sale",
+      "cards":[
+        {
+         "detail":"Super Sale Web Template",
+          "title":"Super Sale Time Website Template",
+          "img":"https://images01.nicepagecdn.com/page/14/98/website-template-preview-149889.webp",
+          "link":"https://nicepage.com/st/149889/super-sale-time-website-template"
+       
+        },
+        {
+         "detail":"Special Offer Ecommerce web template",
+          "title":"Special Offer Website Template",
+          "img":"https://images01.nicepagecdn.com/page/63/28/website-template-preview-63288.webp",
+          "link":"https://nicepage.com/st/63288/special-offer-website-template"
+       
+        },
+        {
+         "detail":"Cyber Monday Web Template",
+          "title":"Block Of Cyber Monday Website Template",
+          "img":"https://images01.nicepagecdn.com/page/34/00/website-template-preview-3400741.webp",
+          "link":"https://nicepage.com/st/3400741/block-of-cyber-monday-website-template"
+        }
+      ]
+   
+  },
+  {
+    "key":"008",
+      "category":"Medicine & Science",
+      "cards":[
+        {
+         "detail":"Covid-19 Web Template",
+          "title":"Stop Covid-19 Website Template",
+          "img":"https://images01.nicepagecdn.com/page/76/64/website-template-preview-76644.webp",
+          "link":"https://nicepage.com/st/76644/stop-covid-19-website-template"
+       
+        },
+        {
+         "detail":"Preventive Services Web Template",
+          "title":"Preventive Services Website Template",
+          "img":"https://images01.nicepagecdn.com/page/77/61/website-template-preview-776185.webp",
+          "link":"https://nicepage.com/st/776185/preventive-services-website-template"
+       
+        },
+        {
+         "detail":"Medical Lab web template",
+          "title":"Medical Laboratory Website Template",
+          "img":"https://images01.nicepagecdn.com/page/51/92/website-template-preview-51928.webp",
+          "link":"https://nicepage.com/st/51928/medical-laboratory-website-template"
+        }
+      ]
+   
+  },
+  {
+    "key":"009",
+      "category":"Fashion & Beauty",
+      "cards":[
+        {
+         "detail":"lux boutique",
+          "title":"Lux Boutique Website Template",
+          "img":"https://images01.nicepagecdn.com/page/14/89/website-template-preview-148933.webp",
+          "link":"https://nicepage.com/st/148933/lux-boutique-website-template"
+       
+        },
+        {
+         "detail":"freestyle collection",
+          "title":"Freestyle Collection Website Template",
+          "img":"https://images01.nicepagecdn.com/page/48/10/website-template-preview-48106.webp",
+          "link":"https://nicepage.com/st/48106/freestyle-collection-website-template"
+       
+        },
+        {
+         "detail":"fashion",
+          "title":"Designer Vision Of Fashion Website Template",
+          "img":"https://images01.nicepagecdn.com/page/32/49/website-template-preview-32495.webp",
+          "link":"https://nicepage.com/st/32495/designer-vision-of-fashion-website-template"
+        }
+      ]
+   
+  },
+  {
+    "key":"010",
+      "category":"Nature",
+      "cards":[
+        {
+         "detail":"ocean travel",
+          "title":"Adventure Ocean Travel Website Template",
+          "img":"https://images01.nicepagecdn.com/page/31/79/website-template-preview-317911.webp",
+          "link":"https://nicepage.com/st/317911/the-beauty-of-our-nature-website-template"
+       
+        },
+        {
+         "detail":"nature",
+          "title":"Pictures Of Nature Website Template",
+          "img":"https://images01.nicepagecdn.com/page/18/48/website-template-preview-18484.webp",
+          "link":"https://nicepage.com/st/18484/pictures-of-nature-website-template"
+       
+        },
+        {
+         "detail":"ocean",
+          "title":"Ocean World Website Template",
+          "img":"https://images01.nicepagecdn.com/page/10/13/website-template-preview-101327.webp",
+          "link":"https://nicepage.com/st/101327/ocean-world-website-template"
+        }
+      ]
+    }
+]

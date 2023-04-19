@@ -1,0 +1,292 @@
+[
+    {
+      "category":"Anti-Malware",
+      "cards":[
+        {
+          "title":"AbuseIPDB",
+          "detail":"IP/domain/URL reputation",
+          "link":"https://docs.abuseipdb.com/#introduction",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"CAPEsandbox",
+          "detail":"Malware execution and analysis",
+          "link":"https://capev2.readthedocs.io/en/latest/usage/api.html",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"MalShare",
+          "detail":"Malware Archive / file sourcing",
+          "link":"https://malshare.com/doc.php",
+          "tags":[
+            "HTTPS","AUTH:API Key , CORS"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Blockchain",
+      "cards":[
+        {
+          "title":"Bitquery",
+          "detail":"Onechain GraphQL APIs & Dex APIs",
+          "link":"https://account.bitquery.io/auth/login?redirect_to=https%3A%2F%2Fide.bitquery.io%2F",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS"
+          ]
+        },
+        {
+          "title":"Covalent",
+          "detail":"Multi-blockchain data aggregator platform",
+          "link":"https://www.covalenthq.com/docs/api/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"Helium",
+          "detail":"Helium is a global, distibuted network of hotspots that create public, long range wireless coverage",
+          "link":"https://docs.helium.com/api/blockchain/introduction/",
+          "tags":[
+            "HTTPS"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Development",
+      "cards":[
+        {
+          "title":"Agify.io",
+          "detail":"Estimates the age from a first name",
+          "link":"https://agify.io/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"APIFlash",
+          "detail":"Chrome based screenshot API for developers",
+          "link":"https://apiflash.com/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"Azure DevOps",
+          "detail":"The Azure DevOps",
+          "link":"https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Email",
+      "cards":[
+        {
+          "title":"apilayermailboxlayer",
+          "detail":"Email address validation",
+          "link":"https://mailboxlayer.com/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"DropMail",
+          "detail":"GraphQL API for creating and managing ephermeral email inboxes",
+          "link":"https://dropmail.me/api/#live-demo",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"EVA",
+          "detail":"Valid email addresses",
+          "link":"https://eva.pingutil.com/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Machine Learning",
+      "cards":[
+        {
+          "title":"Clarifai",
+          "detail":"Computer Vision",
+          "link":"https://docs.clarifai.com/api-guide/api-overview/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"DialogFlow",
+          "detail":"Natural Language Processing",
+          "link":"https://cloud.google.com/dialogflow/docs/",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"Gladia",
+          "detail":"Artificial Intelligence API",
+          "link":"https://api.gladia.io/docs",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Music",
+      "cards":[
+        {
+          "title":"7digital",
+          "detail":"API of music store 7digital",
+          "link":"https://docs.7digital.com/reference/introduction",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"Bandcamp",
+          "detail":"API of music store Bandcamp",
+          "link":"https://bandcamp.com/developer",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"Gaana",
+          "detail":"API to retrieve song information from Gaana",
+          "link":"https://github.com/cyberboysumanjay/GaanaAPI",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"News",
+      "cards":[
+        {
+          "title":"apilayer mediastack",
+          "detail":"api for live news and blog articles",
+          "link":"https://mediastack.com/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"Feed",
+          "detail":"Rss reader",
+          "link":"https://github.com/feedbin/feedbin-api",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"Gnews",
+          "detail":"Search for news from various sources",
+          "link":"https://gnews.io/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Open Source Projects",
+      "cards":[
+        {
+          "title":"Countly",
+          "detail":"Countly web analytics",
+          "link":"https://api.count.ly/reference/rest-api-reference",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"Creative commons catalog",
+          "detail":"Search among openly licensed and public domain works.",
+          "link":"https://api.openverse.engineering/v1/",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"Datamuse",
+          "detail":"Word-finding query engine.",
+          "link":"https://www.datamuse.com/api/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Programming",
+      "cards":[
+        {
+          "title":"Codeforces",
+          "detail":"Get accsess to Codeforce",
+          "link":"https://codeforces.com/apiHelp",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"Hackerearth",
+          "detail":"For compiling and running code in several",
+          "link":"https://www.hackerearth.com/docs/wiki/developers/v4/",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"Judge0 CE",
+          "detail":"Online code execution system.",
+          "link":"https://ce.judge0.com/",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Weather",
+      "cards":[
+        {
+          "title":"7Timer!",
+          "detail":"Weather,especially for astroweather",
+          "link":"http://www.7timer.info/doc.php?lang=en",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        },
+        {
+          "title":"AccuWeather",
+          "detail":"Weather and forecast data",
+          "link":"https://developer.accuweather.com/apis",
+          "tags":[
+            "HTTPS","AUTH:API Key, CORS "
+          ]
+        },
+        {
+          "title":"Aemet",
+          "detail":"Weather and forecast data from spain.",
+          "link":"https://opendata.aemet.es/centrodedescargas/inicio",
+          "tags":[
+            "HTTPS","AUTH:API Key"
+          ]
+        }
+      ]
+    }
+]
